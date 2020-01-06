@@ -1,4 +1,4 @@
 # String
 Java Eclipse String algorithm
 
-MSD, LSD
+MSD, LSD, TST, Tries, Three way
